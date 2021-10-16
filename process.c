@@ -67,6 +67,7 @@ int main(int argc, char** argv){
             return 3;
         }
     }
+
     gettimeofday(&t2, NULL);
     printf("The number %d appears %d times in the array\n", target, cnt);
 
