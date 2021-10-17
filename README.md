@@ -30,5 +30,6 @@ You can change the parameter settings in the files, include:
 - `x_end`:largest array_size
 - `num_thread_settings`: number of thread settings to try (we try powers of 2 starting from 2^0)
 The result on my laptop is shown below:
-![](https://i.imgur.com/m8nGdW2.png)
-![](https://i.imgur.com/c5rB5Jt.png)
+![](https://i.imgur.com/Iz8Eh4w.png)
+![](https://i.imgur.com/U9Wg2N2.png)
+
