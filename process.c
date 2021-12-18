@@ -6,7 +6,7 @@
 #include<errno.h>
 //#define ARR_SIZE 1000000
 //#define NUM_PROC 2
-
+// test github dev
 struct timeval t1, t2;
 
 
